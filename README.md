@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Do-Van-Nam
 - 👀 I’m interested in learning code
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ExpressJS
 - 📫 How to reach me: nam15sep2003@gmail.com
 
 <!---
